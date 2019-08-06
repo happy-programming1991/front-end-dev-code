@@ -21,6 +21,7 @@ function isArray(data) {
 ``` javascript
 function isArray(data) {
   return Boolean(constructor) && data.constructor === Array;
+}
 ```
 4. 
 ``` javascript
